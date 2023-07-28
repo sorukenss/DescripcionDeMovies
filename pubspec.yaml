@@ -38,6 +38,13 @@ dependencies:
   card_swiper: ^2.0.4
   http: ^0.13.6
   provider: ^6.0.5
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/movie-icon.png"
+  adaptive_icon_background: "assets/icon/movie-icon.png"
 
 dev_dependencies:
   flutter_test:

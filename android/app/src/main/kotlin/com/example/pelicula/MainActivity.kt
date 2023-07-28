@@ -1,4 +1,4 @@
-package com.example.pelicula
+package com.isaacpimienta.FlutterFilmStar
 
 import io.flutter.embedding.android.FlutterActivity
 

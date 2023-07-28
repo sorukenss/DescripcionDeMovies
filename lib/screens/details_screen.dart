@@ -47,6 +47,7 @@ class _CustomAppBar extends StatelessWidget {
       expandedHeight: 200,
       floating: false,
       pinned: true,
+      
       flexibleSpace: FlexibleSpaceBar(
 
         centerTitle: true,
